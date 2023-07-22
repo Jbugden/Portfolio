@@ -4,6 +4,10 @@
 # vscode settings
 .vscode/
 
+# .pyc files
+
+*.pyc
+
 #venv
 dev_projects/investment_tracker/src/.venv/
 #config file
