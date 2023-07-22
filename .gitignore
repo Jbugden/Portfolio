@@ -1,0 +1,10 @@
+
+#ignore file
+
+# vscode settings
+.vscode/
+
+#venv
+dev_projects/investment_tracker/src/.venv/
+#config file
+dev_projects/investment_tracker/src/config.py
