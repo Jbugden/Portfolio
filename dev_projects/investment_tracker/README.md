@@ -1,6 +1,5 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
+
+<a name="#top"></a>
 
 
 
@@ -44,6 +43,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#bot-output">Bot Output</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -63,11 +63,12 @@ This goal of this project is to design a bot that notifies the user via a discor
 - % returns for each stock in a given portfolio
 - the total portfolio return
 - The performance from the market (ASX 200)
+- A written summary of the performance of each stock, and a comparison of the portfolio to the market.
 - *If a stock price has reached a desired price on their watchlist (not yet implemented)*
 - *News relating to their stocks and their watchlist (not yet implemented)*
 
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Requirements
 <br>
@@ -82,7 +83,7 @@ To run this code locally you need:
   - All python packages are in [requirements.txt](requirements.txt)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -103,7 +104,7 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -112,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ## Bot Output
@@ -120,8 +121,9 @@ This is an example of how to list things you need to use the software and how to
 screenshots of final product
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [x] Create local version of code
@@ -132,16 +134,21 @@ screenshots of final product
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Copyright 2023 James Bugden
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -149,8 +156,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
  - [README Template](https://github.com/othneildrew/Best-README-Template/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+ - [discord.py Documentation](https://discordpy.readthedocs.io/en/stable/)
+  
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
