@@ -19,3 +19,10 @@ financial_analysis/ASX_KGN/KGN.xlsx
 dev_projects/investment_tracker/src/test.py
 dev_projects/investment_tracker/src/test2.py
 dev_projects/investment_tracker/src/config.py
+env_var.py
+
+data_science_projects/hosing_prices_predictions/hosing_prices_predictions/__init__.py
+data_science_projects/hosing_prices_predictions/tests/__init__.py
+data_science_projects/hosing_prices_predictions/data/sample_submission.csv
+data_science_projects/hosing_prices_predictions/data/test.csv
+data_science_projects/hosing_prices_predictions/data/train.csv
