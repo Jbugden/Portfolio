@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "hosing-prices-predictions"
+version = "0.1.0"
+description = ""
+authors = ["Jbugden97 <72581711+Jbugden97@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "hosing_prices_predictions"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+kaggle = "^1.5.16"
+ipykernel = "^6.25.2"
+numpy = "^1.26.0"
+pandas = "^2.1.1"
+matplotlib = "^3.8.0"
+scipy = "^1.11.3"
+sklearn = "^0.0.post9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
