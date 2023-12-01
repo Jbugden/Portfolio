@@ -10,14 +10,19 @@
 
 #venv
 dev_projects/investment_tracker/src/.venv/
-data_science_projects/mac_uni_chatbot/testing/.venv/
+
 
 #config file
-dev_projects/investment_tracker/src/config.py
-dev_projects/investment_tracker/src/test.py
-dev_projects/investment_tracker/src/test2.py
 
-data_science_projects/mac_uni_chatbot/poetry.lock
-data_science_projects/mac_uni_chatbot/pyproject.toml
 financial_analysis/ASX_KGN/analysis.md
 financial_analysis/ASX_KGN/KGN.xlsx
+dev_projects/investment_tracker/src/test.py
+dev_projects/investment_tracker/src/test2.py
+dev_projects/investment_tracker/src/config.py
+env_var.py
+
+data_science_projects/hosing_prices_predictions/hosing_prices_predictions/__init__.py
+data_science_projects/hosing_prices_predictions/tests/__init__.py
+data_science_projects/hosing_prices_predictions/data/sample_submission.csv
+data_science_projects/hosing_prices_predictions/data/test.csv
+data_science_projects/hosing_prices_predictions/data/train.csv
