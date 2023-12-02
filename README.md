@@ -5,12 +5,12 @@ Welcome to my repository for financial analysis, data science projects, and othe
 <br>
 
 📁 **Table of Contents**
-- [Introduction](#introduction)
-- [Projects](#projects)
-- [Data Science](#data-science)
-- [Financial Analysis](#financial-analysis)
-- [Contributing](#contributing)
-- [License](#license)
+- [James Bugden's Portfolio](#james-bugdens-portfolio)
+  - [:wave: Introduction](#wave-introduction)
+  - [:computer: Projects](#computer-projects)
+  - [:bar\_chart: Data Science](#bar_chart-data-science)
+  - [:moneybag: Financial Analysis](#moneybag-financial-analysis)
+  - [:page\_with\_curl: License](#page_with_curl-license)
 
 <br>
 
@@ -26,8 +26,8 @@ In this repository, I aim to provide a comprehensive collection of my work in fi
 
 This section features various projects I have completed or currently working on. Each project focuses on different aspects of financial analysis, data science, and machine learning. Here are some highlighted projects:
 
-- [TBD]()
-
+- [Housing Price Predictions ](data_science_projects\hosing_prices_predictions\data_transformation.ipynb)
+- [Discord Investment Tracker](dev_projects\investment_tracker\README.md)
 
 Feel free to explore each project and dive into the details, methodologies, and results!
 
